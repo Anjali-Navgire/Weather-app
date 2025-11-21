@@ -1,0 +1,10 @@
+{"type":"module",
+"dependencies":
+{
+"dotenv":"^17.2.3",
+"express":"^5.1.0",
+"node-fetch":"^3.3.2",
+"path":"^0.12.7",
+"url":"^0.11.4"
+}
+}

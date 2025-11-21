@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Weather Dashboard</title>
+  <link rel="stylesheet" href="script.css" />
+</head>
+<body>
+  <main class="app">
+    <header class="card header-card">
+      <h1>Weather Dashboard</h1>
+      <p class="subtitle">Type a city and get the current weather</p>
+    </header>
+
+    <section class="card control-card">
+      <form id="weatherForm" autocomplete="off">
+        <input id="cityInput" name="city" type="text" placeholder="e.g. Pune" required />
+        <button type="submit">Get Weather</button>
+      </form>
+      <p id="message" class="message"></p>
+    </section>
+
+    <section id="result" class="card result-card hidden">
+      <div class="place">
+        <h2 id="place"></h2>
+        <small id="country"></small>
+      </div>
+
+      <div class="weather-main">
+        <img id="icon" alt="weather icon" />
+        <div class="temps">
+          <p id="temp" class="big"></p>
+          <p id="desc" class="muted"></p>
+        </div>
+      </div>
+
+      <div class="meta">
+        <div>Feels like: <span id="feels"></span></div>
+        <div>Humidity: <span id="humidity"></span></div>
+        <div>Wind: <span id="wind"></span> m/s</div>
+      </div>
+    </section>
+
+    <footer class="card footer-card">
+      <small>Built with HTML • CSS • JS • Node/Express</small>
+    </footer>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
