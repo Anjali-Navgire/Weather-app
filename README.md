@@ -2,7 +2,7 @@
 
 A simple and responsive Weather App that fetches real-time weather data using a weather API. Users can search any city and instantly view temperature, humidity, wind speed, weather conditions, and more.
 
-##🚀 Features
+Features
 
 🌍 Search weather by city name
 🌡️ Live temperature updates
