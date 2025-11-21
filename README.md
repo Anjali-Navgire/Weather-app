@@ -4,24 +4,24 @@ A simple and responsive Weather App that fetches real-time weather data using a 
 
 ## Features
 
-🌍 Search weather by city name
-🌡️ Live temperature updates
-💧 Humidity & Wind speed information
-🌈 Weather icons based on conditions
-📱 Fully responsive UI
-⚡ Fast API-based data fetching
-🎨 Clean and modern user interface
+- 🌍 Search weather by city name
+- 🌡️ Live temperature updates
+- 💧 Humidity & Wind speed information
+- 🌈 Weather icons based on conditions
+- 📱 Fully responsive UI
+- ⚡ Fast API-based data fetching
+- 🎨 Clean and modern user interface
 
 ## 🛠️ Tech Stack
 
 Frontend
--HTML
--CSS
--JavaScript
+- HTML
+- CSS
+- JavaScript
 
 Backend
--Node.js
--Express.js
+- Node.js
+- Express.js
 
 API
 -Weather API (whichever you're using)
@@ -43,19 +43,19 @@ Weather-app/
 Follow these steps to run the project locally:
 
 1. Clone the repository
-git clone https://github.com/Anjali-Navgire/Weather-app.git
+- git clone https://github.com/Anjali-Navgire/Weather-app.git
 
 2. Navigate into the project folder
-cd Weather-app
+- cd Weather-app
 
 3. Install dependencies
-npm install
+- npm install
 
 4. Start the server
-node server.js
+- node server.js
 
 5. Open frontend
-Open index.html from the frontend folder in your browser.
+- Open index.html from the frontend folder in your browser.
 
 ## 🎯 How It Works
 
@@ -67,8 +67,8 @@ Weather details are displayed on the screen
 ## 👩‍💻 Author
 
 Anjali Navgire
-🔥 Full Stack Developer
-📍 Pune, India
+- 🔥 Full Stack Developer
+- 📍 Pune, India
 
 LinkedIn: https://www.linkedin.com/in/anjali-navgire
 
