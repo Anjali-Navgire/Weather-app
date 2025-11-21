@@ -70,5 +70,5 @@ Anjali Navgire
 - 🔥 Full Stack Developer
 - 📍 Pune, India
 
-LinkedIn: https://www.linkedin.com/in/anjali-navgire
+LinkedIn: https://www.linkedin.com/in/anjali-navgire-a93b4932b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
