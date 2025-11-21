@@ -2,7 +2,7 @@
 
 A simple and responsive Weather App that fetches real-time weather data using a weather API. Users can search any city and instantly view temperature, humidity, wind speed, weather conditions, and more.
 
-Features
+## Features
 
 🌍 Search weather by city name
 🌡️ Live temperature updates
@@ -12,7 +12,7 @@ Features
 ⚡ Fast API-based data fetching
 🎨 Clean and modern user interface
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Frontend
 -HTML
@@ -38,7 +38,7 @@ Weather-app/
 │── package.json
 │── .gitignore
 
-##⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 
 Follow these steps to run the project locally:
 
@@ -57,14 +57,14 @@ node server.js
 5. Open frontend
 Open index.html from the frontend folder in your browser.
 
-##🎯 How It Works
+## 🎯 How It Works
 
 User enters a city name
 The frontend sends a request to your Node.js backend
 Backend fetches weather data from the API
 Weather details are displayed on the screen
 
-##👩‍💻 Author
+## 👩‍💻 Author
 
 Anjali Navgire
 🔥 Full Stack Developer
