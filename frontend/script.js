@@ -22,7 +22,7 @@ form.addEventListener("submit", async (e) => {
   message.textContent = "Fetching weather...";
 
   try {
-    const res = await fetch(`/weather?city=${encodeURIComponent(city)}`);
+    const res = await fetch(`https://weather-app-0j8l.onrender.com/weather?city=${encodeURIComponent(city)}`);
     const data = await res.json();
 
     if (!res.ok) {
